@@ -34,4 +34,4 @@ Touchpad and trackpad are referring to the same thing in this context
 		- UEFI: <code>sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg</code>
 		- UEFI: <code>sudo grub2-mkconfig -o /boot/grub2/grub.cfg</code>
 <br>
-##Now reboot your system and the touchpad should be working. 
+## Now reboot your system and the touchpad should be working. 
